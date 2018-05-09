@@ -1,0 +1,11 @@
+Tim,32,icecream
+Superman,77,Blueberries
+Batman,45,Cherios
+Flash,14,pizza
+Cobra,36,oatmeal
+Poptart,55,people
+popeye,60,spinach
+Garfield,25,lasanga
+test,23,rett
+t,34,t
+captain,88,hotdogs
